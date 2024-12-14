@@ -1,1 +1,40 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        a {
+            display: block;
+            margin: 15px;
+            padding: 10px;
+            font-size: 18px;
+            color: white;
+            background-color: #0078d7;
+            text-decoration: none;
+            border-radius: 5px;
+            width: 200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        a:hover {
+            background-color: #0056a3;
+        }
+    </style>
+</head>
+<body>
+    <h1>راه‌های ارتباطی</h1>
+    <p>لطفاً روش مورد نظر خود را برای ارتباط با من انتخاب کنید:</p>
+    <a href="https://www.instagram.com/javad.mas1" target="_blank">Instagram</a>
+    <a href="https://t.me/jmpitco" target="_blank">Telegram</a>
+    <a href="https://wa.me/989111585705" target="_blank">WhatsApp</a>
+    <a href="mailto:Jmpitco@gmail.com" target="_blank">Email</a>
+    <a href="tel:+989111585705">Call Me</a>
+</body>
+</html>
